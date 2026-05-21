@@ -1,4 +1,4 @@
 # learningpython-demo
-this is my first git respository
+This is my first git respository.
 <br>
-author - arnav gupta
+Author - Arnav Gupta
